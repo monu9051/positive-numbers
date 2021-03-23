@@ -1,0 +1,8 @@
+Input1= [12, -7, 5, 64, -14] 
+Input2= [12, 14, -95, 3] 
+ 
+x=list(filter(lambda n : n>0,Input1))
+y=list(filter(lambda n : n>0,Input2))
+print(x)
+print(y)
+  
